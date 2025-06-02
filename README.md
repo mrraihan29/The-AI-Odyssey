@@ -2,7 +2,7 @@
 
 ![AI Odyssey Banner](/assets/images/banner.svg)
 
-Welcome to "The AI Odyssey"! We've embarked on an ambitious mission: to craft one of the most thorough, interconnected, and high-quality open-source learning experiences in Artificial Intelligence, Machine Learning, and Deep Learning. If you're already comfortable with Python and its foundational data science libraries, this Odyssey is designed to be your guide, transforming your intermediate understanding into advanced mastery. Our aim is to equip you with PhD-level depth and the confidence to engage with and contribute to cutting-edge AI research and development.
+Welcome to "The AI Odyssey"! We've embarked on an ambitious mission: to craft one of the most thorough, interconnected, and high-quality open-source learning experiences in Artificial Intelligence, Machine Learning, and Deep Learning. If you're already comfortable with Python and its foundational data science libraries, this Odyssey is designed to be your guide, transforming your intermediate understanding into advanced mastery. Our aim is to equip you with depth understanding and the confidence to engage with and contribute to cutting-edge AI research and development.
 
 ## ✨ What Makes This Odyssey Unique?
 
